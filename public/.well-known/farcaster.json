@@ -7,11 +7,11 @@
   "frame": {
     "version": "next",
     "name": "ArchiVault: Artifact Preservation",
-    "homeUrl": "https://archivaulthq.com/",
+    "homeUrl": "https://app-f6f8d99f-7qlf.vercel.app",
     "iconUrl": "https://archivaulthq.com/icon.png",
     "splashImageUrl": "https://archivaulthq.com/splash.png",
     "splashBackgroundColor": "#0a1929",
-    "webhookUrl": "https://api.archivaulthq.com/farcaster-webhook",
+    "webhookUrl": "https://app-f6f8d99f-7qlf.vercel.app/api/webhook",
     "subtitle": "Onchain artifact monitoring & preservation",
     "description": "ArchiVault enables museums and archives to systematically track environmental conditions and artifact degradation using structured data and comparison tools, triggering real-time alerts for deviations and fostering collaborative preservation initiatives.",
     "screenshotUrls": [
@@ -20,7 +20,13 @@
       "https://archivaulthq.com/screenshot3.png"
     ],
     "primaryCategory": "productivity",
-    "tags": ["museum", "preservation", "artifacts", "monitoring", "onchain"],
+    "tags": [
+      "museum",
+      "preservation",
+      "artifacts",
+      "monitoring",
+      "onchain"
+    ],
     "heroImageUrl": "https://archivaulthq.com/hero.png",
     "tagline": "Preserve history onchain",
     "ogTitle": "ArchiVault - Onchain Artifact Preservation",
