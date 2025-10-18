@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+    "payload": "eyJkb21haW4iOiJhcmNoaXZhdWx0aHEuY29tIn0",
+    "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+  },
+  "frame": {
+    "version": "next",
+    "name": "ArchiVault: Artifact Preservation",
+    "homeUrl": "https://archivaulthq.com/",
+    "iconUrl": "https://archivaulthq.com/icon.png",
+    "splashImageUrl": "https://archivaulthq.com/splash.png",
+    "splashBackgroundColor": "#0a1929",
+    "webhookUrl": "https://api.archivaulthq.com/farcaster-webhook",
+    "subtitle": "Onchain artifact monitoring & preservation",
+    "description": "ArchiVault enables museums and archives to systematically track environmental conditions and artifact degradation using structured data and comparison tools, triggering real-time alerts for deviations and fostering collaborative preservation initiatives.",
+    "screenshotUrls": [
+      "https://archivaulthq.com/screenshot1.png",
+      "https://archivaulthq.com/screenshot2.png",
+      "https://archivaulthq.com/screenshot3.png"
+    ],
+    "primaryCategory": "productivity",
+    "tags": ["museum", "preservation", "artifacts", "monitoring", "onchain"],
+    "heroImageUrl": "https://archivaulthq.com/hero.png",
+    "tagline": "Preserve history onchain",
+    "ogTitle": "ArchiVault - Onchain Artifact Preservation",
+    "ogDescription": "Systematic artifact monitoring and preservation for museums with onchain reporting, alerts, and badges.",
+    "ogImageUrl": "https://archivaulthq.com/og.png"
+  }
+}
